@@ -25,7 +25,7 @@ This is a pizza order generator built with React, React Router and Framer Motion
 
 ## Screenshot
 
-[screenshot]
+[screenshot](pizza/src/screenshots/screenshot.png)
 
 ## Links
 
