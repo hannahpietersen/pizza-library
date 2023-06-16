@@ -1,4 +1,4 @@
-### Pizza Express
+# Pizza Express
  
 This is a pizza order generator built with React, React Router and Framer Motion's animations.
 
